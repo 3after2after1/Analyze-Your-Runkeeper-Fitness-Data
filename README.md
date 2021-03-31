@@ -1,5 +1,7 @@
 # Analyze Your Runkeeper Fitness Data
 
+![alt text](https://assets.datacamp.com/production/project_727/img/runner_in_blue.jpg)
+
 In this datacamp project, we will analyze seven years worth of training data (2012 - 2018) from [Runkeeper](https://runkeeper.com/) of an individual. The data is a CSV file where each row is a single training activity. In this project, we will create import, clean, and analyze the  data to answer the questions below and many more:
 
 - How fast, long, and intense was the run on a daily, monthly and yearly basis?
