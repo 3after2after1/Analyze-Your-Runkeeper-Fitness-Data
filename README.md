@@ -23,6 +23,6 @@ In this datacamp project, we will analyze seven years worth of training data (20
 8) Am I progressing?
 9) Training intensity
 10) Detailed summary report
-11) Fun facts
+11) Fun facts 
 
 The original project is available at [Datacamp project section](https://www.datacamp.com/projects/727)
