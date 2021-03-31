@@ -1,6 +1,6 @@
 # Analyze Your Runkeeper Fitness Data
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://assets.datacamp.com/production/project_727/img/runner_in_blue.jpg)
 
 In this datacamp project, we will analyze seven years worth of training data (2012 - 2018) from [Runkeeper](https://runkeeper.com/) of an individual. The data is a CSV file where each row is a single training activity. In this project, we will create import, clean, and analyze the  data to answer the questions below and many more:
 
